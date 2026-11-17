@@ -3,6 +3,9 @@
 What changed in each WII-UU release, newest first. WII-UU shows these notes after an update,
 in Settings > General > What's new, and before installing an update.
 
+# 2.0.5 (2026-11-17)
+- Fix relay qr code
+
 ## 2.0.4 (2026-11-16)
 - Port the desktop console menu, game library and Settings layout to the web demo.
 
